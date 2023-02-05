@@ -6,3 +6,9 @@ h1,p {
     color: rgb(255, 255, 255);
     margin: 20px;
 }
+
+div {
+    border: 1px solid white;
+    padding: 2px;
+    margin: 10px;
+}
